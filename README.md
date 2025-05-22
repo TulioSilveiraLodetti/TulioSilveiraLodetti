@@ -1,7 +1,5 @@
 # Olá, eu sou Tulio Silveira Lodetti <img width="30px" height="30" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Hi.gif" />
 
-<img align="right" alt="GIF" height="160px" src="https://octodex.github.com/images/daftpunktocat-guy.gif" />
-
 ## I'm a Backend Developer
 - 🔧 Estou trabalhando na secretária do Salete Scotti dos Santos sou estágiario
 - 🌱 Atualmente estou cursando o ensino médio e fazendo o curso tecnico desenvolvimento de sistemas
