@@ -1,7 +1,6 @@
 # Olá, eu sou Tulio Silveira Lodetti <img width="30px" height="30" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Hi.gif" />
 
 ## 💻 Gosto muito de tecnologia:
-- 🔧 Estou trabalhando na secretária do Salete Scotti dos Santos sou estágiario
 - 🌱 Atualmente estou cursando o ensino médio e fazendo o curso tecnico desenvolvimento de sistemas
 - 📫 Como entrar em contato comigo:[Linkedin](https://www.linkedin.com/in/TULIOLODETTI/)
 
