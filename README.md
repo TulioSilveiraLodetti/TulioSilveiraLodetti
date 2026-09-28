@@ -71,14 +71,6 @@ Site personalizado com QR Code, countdown, galeria, música e carta.
 </tr>
 </table>
 
-<div align="center">
-
-<br/>
-
-[![Ver portfólio](https://img.shields.io/badge/ver_todos_os_projetos_no_portfólio-111827?style=for-the-badge)](https://portfolio-tulio.vercel.app)
-
-</div>
-
 <br/>
 
 ## No GitHub
