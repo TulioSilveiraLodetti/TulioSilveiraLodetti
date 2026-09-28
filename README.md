@@ -8,10 +8,9 @@ Ainda não trabalhei na área. Os projetos abaixo eu fiz no curso e estão no ar
 <br/>
 
 [![Portfólio](https://img.shields.io/badge/Portfólio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-tulio-five.vercel.app/#jogo)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tulio-lodetti-091593366/)
-[![E-mail](https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tulio.lodetti1@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/t%C3%BAlio-lodetti-091593366/)
+[![E-mail](https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=tulio.lodetti1@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eutuliolodetti/)
-[![Jogar](https://img.shields.io/badge/Bullet_Chase-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://tuliosilveiralodetti.itch.io/bullet-chase)
 
 <br/>
 
@@ -54,9 +53,8 @@ Controle de salas, computadores e mapa ao vivo do laboratório.
 ### Bullet Chase
 Jogo 2D em Unity com o portfólio dentro da gameplay. Dá para jogar no PC, no Android e na web.
 
-[![Unity](https://img.shields.io/badge/Unity-20232A?style=flat-square&logo=unity&logoColor=white)](https://tuliosilveiralodetti.itch.io/bullet-chase)
-[![C#](https://img.shields.io/badge/C%23-20232A?style=flat-square&logo=csharp&logoColor=white)](https://tuliosilveiralodetti.itch.io/bullet-chase)
-[![Jogar](https://img.shields.io/badge/jogar_no_itch.io-FA5C5C?style=flat-square&logo=itchdotio&logoColor=white)](https://tuliosilveiralodetti.itch.io/bullet-chase)
+![Unity](https://img.shields.io/badge/Unity-20232A?style=flat-square&logo=unity&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-20232A?style=flat-square&logo=csharp&logoColor=white)
 
 </td>
 <td width="50%" valign="top">
@@ -64,8 +62,7 @@ Jogo 2D em Unity com o portfólio dentro da gameplay. Dá para jogar no PC, no A
 ### Site Namorados
 Site personalizado com QR Code, countdown, galeria, música e carta.
 
-[![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)](https://site-namorados-demo.vercel.app)
-[![Abrir site](https://img.shields.io/badge/abrir_site-7C3AED?style=flat-square&logo=vercel&logoColor=white)](https://site-namorados-demo.vercel.app)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 
 </td>
 </tr>
