@@ -7,7 +7,7 @@ Ainda não trabalhei na área. Os projetos abaixo eu fiz no curso e estão no ar
 
 <br/>
 
-[![Portfólio](https://img.shields.io/badge/Portfólio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-tulio.vercel.app)
+[![Portfólio](https://img.shields.io/badge/Portfólio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-tulio-five.vercel.app/#jogo)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tulio-lodetti-091593366/)
 [![E-mail](https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tulio.lodetti1@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eutuliolodetti/)
@@ -70,14 +70,3 @@ Site personalizado com QR Code, countdown, galeria, música e carta.
 </td>
 </tr>
 </table>
-
-<br/>
-
-## No GitHub
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=TulioSilveiraLodetti&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c4b5fd&icon_color=a78bfa&text_color=c9d1d9" alt="Estatísticas do GitHub" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TulioSilveiraLodetti&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c4b5fd&text_color=c9d1d9" alt="Linguagens mais usadas" />
-
-</div>
