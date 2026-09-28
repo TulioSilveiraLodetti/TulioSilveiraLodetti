@@ -3,7 +3,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=900&color=C4B5FD&center=true&vCenter=true&width=760&height=50&lines=Ol%C3%A1%2C+eu+sou+o+T%C3%BAlio;Desenvolvedor+j%C3%BAnior+em+forma%C3%A7%C3%A3o;Estudante+de+Desenvolvimento+de+Sistemas;Aberto+a+est%C3%A1gio" alt="Túlio Lodetti — desenvolvedor júnior em formação" />
 
 Estudante do Ensino Médio integrado ao técnico em **Desenvolvimento de Sistemas** (SESI/SENAI).  
-Ainda não trabalhei na área. Os projetos abaixo são de estudo e portfólio: sites, APIs e um jogo 2D.
+Ainda não trabalhei na área. Os projetos abaixo eu fiz no curso e estão no ar, sendo utilizados.
 
 <br/>
 
@@ -30,7 +30,7 @@ Ainda não trabalhei na área. Os projetos abaixo são de estudo e portfólio: s
 <td width="50%" valign="top">
 
 ### Guarda-Vidas
-Sistema de estudo para postos de guarda-vidas: login (admin e operador), ocorrências e mapa dos postos.
+Sistema para postos de guarda-vidas: login (admin e operador), ocorrências e mapa dos postos.
 
 [![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)](https://portfolio-tulio.vercel.app)
 [![Java](https://img.shields.io/badge/Java-20232A?style=flat-square&logo=openjdk&logoColor=white)](https://portfolio-tulio.vercel.app)
